@@ -157,7 +157,7 @@ When installing interactively, you can choose:
 List all installed skills. Similar to `npm ls`.
 
 ```bash
-# List all installed skills (project and global)
+# List project installed skills 
 npx skills list
 
 # List only global skills
